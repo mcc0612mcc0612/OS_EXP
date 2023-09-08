@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "mem.h": "c",
+        "userinterface.h": "c",
+        "task.h": "c",
+        "schedule.h": "c",
+        "myprintk.h": "c"
+    }
+}
